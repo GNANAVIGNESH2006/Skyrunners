@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KnowBase AI — AI Powered Knowledge Assistant
 
 > **"Ask your documents. Get grounded answers."**
@@ -258,3 +259,7 @@ GET  /api/dashboard
 - All API keys must be stored in `.env` — never in frontend code
 - SQLite database is stored at `backend/data/knowbase.db`
 - Uploaded files are stored at `backend/uploads/`
+=======
+# Skyrunners
+for hackathon
+>>>>>>> 4992e8ea56cfd50f2a92b0fab880b4c0da53c616
